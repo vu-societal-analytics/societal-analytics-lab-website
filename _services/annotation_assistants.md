@@ -1,10 +1,10 @@
 ---
-title: "Vacancy: Research Assistant"
+title: "Vacancy: Post-doctoral Researcher / Research Engineer (OPTIMA)"
 date: 2026-04-01
 weight: 7
 ---
 
-Post-doctoral Researcher / Research Engineer (OPTIMA)
+Apply before June 15th, 2026.
 <!--more-->
 
 # Overview 
