@@ -4,7 +4,7 @@ date: 2026-06-01
 weight: 7
 ---
 
-Apply before July 9th, 2026.
+Apply before August 7th, 2026.
 <!--more-->
 
 # Overview and tasks
@@ -36,8 +36,13 @@ In terms of software development:
 
 # Your profile
 
+## In terms of you:
+* You are a master student registered at a Dutch higher education institution and you are allowed to work in the Netherlands.
+* You have at least 60 ECTS.
+* You don't exceed the max FTE you are allowed to work as student assistants on an annual basis, which is 0,4 FTE on average.
+
+## In terms of your skills:
 * You have experience in JavaScript.
-* You are a master student currently following either the MSc Computer Science or the MSc Computer Security at VU.
 * You have followed courses on or have experience with software design and development.
 * You are a highly motivated student looking for opportunities to continue developing your computational skills.
 * You are not afraid of tackling new challenges.
@@ -50,13 +55,12 @@ We realize that each individual brings a unique set of skills, expertise and min
 
 # To learn more about the vacancy and to apply
 
-If you said yes to most of the previous statements, then *send the following three document before July 9th, 2026*, to Sofia Gil-Clavel ([B.S.GilClavel@vu.nl](mailto:B.S.GilClavel@vu.nl?subject=AI Dilemma vacancy)) with the subject "AI Dilemma vacancy":
+If you said yes to most of the previous statements, then *send the following three document before August 7th, 2026*, to Sofia Gil-Clavel ([B.S.GilClavel@vu.nl](mailto:B.S.GilClavel@vu.nl?subject=AI Dilemma vacancy)) with the subject "AI Dilemma vacancy":
 
-* your CV
-* your grades, and 
+* your CV.
 * your working plan. You can check this example on how to write it: [https://societal-analytics.nl/services/internship-opportunities/](https://societal-analytics.nl/services/internship-opportunities/)
 
-Interviews will take place onsite at VU  between July 13th and July 15th, 2026.
+Interviews will take place online between August 10th and August 14th, 2026.
 
 
 If you have any questions feel free to reach out to Dr. Sofia Gil-Clavel ([B.S.GilClavel@vu.nl](mailto:B.S.GilClavel@vu.nl?subject=AI Dilemma vacancy)) with the subject "AI Dilemma vacancy".
