@@ -37,8 +37,7 @@ In terms of software development:
 # Your profile
 
 ## In terms of you:
-* You are a master student registered at a Dutch higher education institution and you are allowed to work in the Netherlands.
-* You have at least 60 ECTS.
+* You are a master student registered at a Dutch higher education institution.
 * You don't exceed the max FTE you are allowed to work as student assistants on an annual basis, which is 0,4 FTE on average.
 
 ## In terms of your skills:
