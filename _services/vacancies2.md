@@ -58,6 +58,7 @@ We realize that each individual brings a unique set of skills, expertise and min
 If you said yes to most of the previous statements, then *send the following three document before August 7th, 2026*, to Sofia Gil-Clavel ([B.S.GilClavel@vu.nl](mailto:B.S.GilClavel@vu.nl?subject=AI Dilemma vacancy)) with the subject "AI Dilemma vacancy":
 
 * your CV.
+* a list of classes you have taken so far with their ECTS. 
 * your working plan. You can check this example on how to write it: [https://societal-analytics.nl/services/internship-opportunities/](https://societal-analytics.nl/services/internship-opportunities/)
 
 Interviews will take place online between August 10th and August 14th, 2026.
