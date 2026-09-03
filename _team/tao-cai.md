@@ -4,8 +4,7 @@ date: 2018-12-20T13:44:30+10:00
 image: ""
 jobtitle: "Research Intern"
 linkedinurl: "www.linkedin.com/in/tao-cai-a15a9b201"
-promoted: false
-weight: 7
+weight: 1
 ---
 
 Tao Cai – Research Intern.
