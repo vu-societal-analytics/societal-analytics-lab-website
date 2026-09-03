@@ -1,7 +1,7 @@
 ---
 title: "Tao Cai"
 date: 2018-12-20T13:44:30+10:00
-image: ""
+image: "https://media.licdn.com/dms/image/v2/D4E35AQGVuRgzh0C3UA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1736066886940?e=1789052400&v=beta&t=xIHkVxtyYlCglX0LHF2CMRr1oJg1l6tv95JlV4wy8wY"
 jobtitle: "Research Intern"
 linkedinurl: "www.linkedin.com/in/tao-cai-a15a9b201"
 weight: 1
