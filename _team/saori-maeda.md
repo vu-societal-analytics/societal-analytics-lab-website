@@ -36,15 +36,17 @@ You can find more info about me [here](https://www.linkedin.com/in/saori-maeda-8
 
 *Abstract:* This project investigates the use of large language models (LLMs) 
 for coding longitudinal open-ended media diary data. It compares LLM-assisted 
-classification with human coding and examines whether coding performance varies 
-across response characteristics such as language, response length, survey wave, 
-and political topic. The project further explores whether differences between 
-human and LLM coding affect substantive conclusions drawn from longitudinal 
-analyses. Where feasible, coded diary measures will also be linked to donated 
-digital trace data to study the relationship between self-reported media 
-experiences and observed digital behaviour. By evaluating both classification 
-performance and its implications for downstream analysis, the project contributes 
-to methodological discussions on the valid and responsible use of LLMs in 
-computational social science.
+classification with human coding and evaluates coding quality, for example by 
+examining whether providing information from participants’ previous diary entries 
+improves performance compared with analysing each response in isolation. The 
+project will also explore how coding performance may vary across characteristics 
+of the data and analytical choices, such as response characteristics, the amount 
+and type of contextual information provided to the model, or political topic. In 
+addition, it will explore whether LLM-assisted coding can support longitudinal 
+analysis of participants’ media experiences, for example by capturing changes in 
+engagement, emotional responses, or news avoidance over time. By evaluating coding 
+validity and the potential value of longitudinal context, the project contributes 
+to methodological discussions on the valid and responsible use of LLMs for 
+repeated open-ended data in computational social science.
 
 
