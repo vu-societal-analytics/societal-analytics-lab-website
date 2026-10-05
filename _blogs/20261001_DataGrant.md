@@ -65,9 +65,8 @@ The aim of this meeting is receive and give feedback on their project.
 
 2. At the end of the project, applicants need to submit a final report on how the grant was used. 
 The report should be published before December 31st, 2027. The report should also include links to: 
-
-  * Where the data or labeled data was or will be archived or stored.
-  * Possible working papers or peer-reviewed articles.
+    -   Where the data or labeled data was or will be archived or stored.
+    -   Possible working papers or peer-reviewed articles.
 
 3. All publications that result from the project must acknowledge the Societal Analytics Laboratory as a funder.
 
