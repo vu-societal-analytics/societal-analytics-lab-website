@@ -44,7 +44,7 @@ on December 31st, 2026, 24:59 hrs (CET). So, **submit your application before De
 The proposals will be examined by the two directors of the Societal Analytics Lab 
 and two independent members of VU:
 
-* TBA
+* Emmanuelle Beauxis Aussalet (Assistant Professor of ethical computing, Computer Science, VU)
 * TBA
 
 
@@ -56,7 +56,7 @@ The main points to evaluate are:
 * Clarity of the proposal and research plan.
 * Feasibility of the plan and timetable.
 
-**The Societal Analytics Lab will announce the selected projects on the February 2026 Newsletter**, i.e. at the latest the second week of February 2027.
+**The Societal Analytics Lab will announce the selected projects on the February 2027 Newsletter**, i.e. at the latest the second week of February 2027.
 
 # Final outputs and duties
 
