@@ -118,9 +118,9 @@ ahead and install Ollama on your computer.
 
 R tutorials to interact with Ollama using:
 
-* tidyllm:  https://edubruell.github.io/tidyllm/articles/tidyllm_local_models.html
+* [tidyllm](https://edubruell.github.io/tidyllm/articles/tidyllm_local_models.html)
 
-* Here is our minimal example (LLMs_Ollama_locally.R)[/_blogs/R_scripts/LLMs_Ollama_locally.R]
+* Here is our minimal example [LLMs_Ollama_locally.R](/_blogs/R_scripts/LLMs_Ollama_locally.R)
 
 ### Stored and run in VU JupyterHub
 
@@ -154,7 +154,7 @@ totally saved, as it is managed by our VU JupyterHub colleagues.
 small models, you can reach out to our VU JupyterHub colleagues via email: [servicedesk.it@vu.nl](mailto:servicedesk.it@vu.nl). 
 Remember to add in the subject that this is a JupyterHub request.
 
-Here is our minimal example (LLMs_VU_JupyterHub.R)[/_blogs/R_scripts/LLMs_VU_JupyterHub.R]
+Here is our minimal example [LLMs_VU_JupyterHub.R](/_blogs/R_scripts/LLMs_VU_JupyterHub.R)
 
 > **Hint:** If you don’t want to go through the hassle of requesting a course 
 environment, then feel free to use ours: Social Media Analytics. The environment 
@@ -181,7 +181,7 @@ We recommend using Nebula in the following cases:
 3. You are interested in running small LLMs in parallel or using GPUs (which makes 
 the models run faster). 
 
-Here is our minimal example (LLMs_VU_Nebula.R)[/_blogs/R_scripts/LLMs_VU_Nebula.R]
+Here is our minimal example [LLMs_VU_Nebula.R](/_blogs/R_scripts/LLMs_VU_Nebula.R)
 
 ### Getting access to Nebula
 
@@ -207,7 +207,7 @@ so that your team can interact with Nebula via R.
 NOT have to pay. This is important to remember, otherwise you would have to pay 
 10EUR per hour.
 
-* If you need some help, you can check their webpage [ https://networkinstitute.org/nebula-main/]( https://networkinstitute.org/nebula-main/).
+* If you need some help, you can check their webpage [https://networkinstitute.org/nebula-main/]( https://networkinstitute.org/nebula-main/).
 
 * If you need more help, you can contact the Societal Analytics Lab. 
 
