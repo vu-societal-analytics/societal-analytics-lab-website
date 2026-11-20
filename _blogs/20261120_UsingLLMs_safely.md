@@ -120,7 +120,7 @@ R tutorials to interact with Ollama using:
 
 * [tidyllm](https://edubruell.github.io/tidyllm/articles/tidyllm_local_models.html)
 
-* Here is our minimal example [LLMs_Ollama_locally.R](/\_blogs/R_scripts/LLMs_Ollama_locally.R)
+* Here is our minimal example [LLMs_Ollama_locally.R](https://github.com/vu-societal-analytics/societal-analytics-lab-website/blob/master/_blogs/R_scripts/LLMs_Ollama_locally.R)
 
 ### Stored and run in VU JupyterHub
 
@@ -154,7 +154,7 @@ totally saved, as it is managed by our VU JupyterHub colleagues.
 small models, you can reach out to our VU JupyterHub colleagues via email: [servicedesk.it@vu.nl](mailto:servicedesk.it@vu.nl). 
 Remember to add in the subject that this is a JupyterHub request.
 
-Here is our minimal example [LLMs_VU_JupyterHub.R](/\_blogs/R_scripts/LLMs_VU_JupyterHub.R)
+Here is our minimal example [LLMs_VU_JupyterHub.R](https://github.com/vu-societal-analytics/societal-analytics-lab-website/blob/master/_blogs/R_scripts/LLMs_VU_JupyterHub.R)
 
 > **Hint:** If you don’t want to go through the hassle of requesting a course 
 environment, then feel free to use ours: Social Media Analytics. The environment 
@@ -181,7 +181,7 @@ We recommend using Nebula in the following cases:
 3. You are interested in running small LLMs in parallel or using GPUs (which makes 
 the models run faster). 
 
-Here is our minimal example [LLMs_VU_Nebula.R](/\_blogs/R_scripts/LLMs_VU_Nebula.R)
+Here is our minimal example [LLMs_VU_Nebula.R](https://github.com/vu-societal-analytics/societal-analytics-lab-website/blob/master/_blogs/R_scripts/LLMs_VU_Nebula.R)
 
 ### Getting access to Nebula
 
@@ -219,11 +219,11 @@ NOT have to pay. This is important to remember, otherwise you would have to pay
 
 ## References
 
-Gil-Clavel, S. (2026). R-Course: Tools for teaching and research. [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22036755
+Gil-Clavel, S. (2026). R-Course: Tools for teaching and research. [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.22036755](https://doi.org/10.5281/zenodo.22036755)
 
-Netherlands Code of Conduct for Research Integrity 2027. (2026). https://www.universiteitenvannederland.nl/files/publications/20261020-KNAW-NGWI-2027-EN-def.pdf
+Netherlands Code of Conduct for Research Integrity 2027. (2026). [https://www.universiteitenvannederland.nl/files/publications/20261020-KNAW-NGWI-2027-EN-def.pdf](https://www.universiteitenvannederland.nl/files/publications/20261020-KNAW-NGWI-2027-EN-def.pdf)
 
-Network Institute. (2025). Nebula: Empowering VU research with open-source generative AI \| Network Institute. https://networkinstitute.org/nebula/
+Network Institute. (2025). Nebula: Empowering VU research with open-source generative AI \| Network Institute. [https://networkinstitute.org/nebula/](https://networkinstitute.org/nebula/)
 
 
 
