@@ -7,13 +7,13 @@ Written by Sofia Gil-Clavel.
 
 -   [Index:](#accessing-large-language-models-for-research-and-for-education-in-r)
     -   [Three core reasons to use LLMs hosted by you or by your institution](#three-core-reasons-to-use-llms-hosted-by-you-or-by-your-institution)
-      -   [Honesty](#honesty)
-      -   [Independence](#independence)
-      -   [Transparency](#transparency)
+        -   [Honesty](#honesty)
+        -   [Independence](#independence)
+        -   [Transparency](#transparency)
     -   [Accessing LLMs hosted by you or by your institution](#accessing-llms-hosted-by-you-or-by-your-institution)
-      -   [Stored and run in your local computer](#stored-and-run-in-your-local-computer)
-      -   [Stored and run in VU JupyterHub](#stored-and-run-in-vu-jupyterhub)
-      -   [Stored and run in VU Nebula](#stored-and-run-in-vu-nebula)
+        -   [Stored and run in your local computer](#stored-and-run-in-your-local-computer)
+        -   [Stored and run in VU JupyterHub](#stored-and-run-in-vu-jupyterhub)
+        -   [Stored and run in VU Nebula](#stored-and-run-in-vu-nebula)
     -   [References](#references)
 
 
@@ -223,7 +223,7 @@ Gil-Clavel, S. (2026). R-Course: Tools for teaching and research. [Computer soft
 
 Netherlands Code of Conduct for Research Integrity 2027. (2026). https://www.universiteitenvannederland.nl/files/publications/20261020-KNAW-NGWI-2027-EN-def.pdf
 
-Network Institute. (2025). Nebula: Empowering VU research with open-source generative AI | Network Institute. https://networkinstitute.org/nebula/
+Network Institute. (2025). Nebula: Empowering VU research with open-source generative AI \| Network Institute. https://networkinstitute.org/nebula/
 
 
 
