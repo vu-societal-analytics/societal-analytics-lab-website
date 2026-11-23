@@ -84,7 +84,7 @@ on (private) external providers.
 
 ## Accessing LLMs hosted by you or by your institution
 
-To run the LLMs, we will show you examples using the R-package [tidyllm](https://github.com/edubruell/tidyllm) and (ellmer)[https://ellmer.tidyverse.org/]. 
+To run the LLMs, we will show you examples using the R-package [tidyllm](https://github.com/edubruell/tidyllm) and [ellmer](https://ellmer.tidyverse.org/). 
 So, make sure you have installed it in R before you start following this tutorial.
 These are the versions used in this tutorial:
 
