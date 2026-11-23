@@ -84,7 +84,7 @@ on (private) external providers.
 
 ## Accessing LLMs hosted by you or by your institution
 
-To run the LLMs, we will show you examples using the R-package [tidyllm](https://github.com/edubruell/tidyllm). 
+To run the LLMs, we will show you examples using the R-package [tidyllm](https://github.com/edubruell/tidyllm) and (ellmer)[https://ellmer.tidyverse.org/]. 
 So, make sure you have installed it in R before you start following this tutorial.
 These are the versions used in this tutorial:
 
@@ -122,6 +122,8 @@ R tutorials to interact with Ollama using:
 
 * Here is our minimal example [LLMs_Ollama_locally.R](https://github.com/vu-societal-analytics/societal-analytics-lab-website/blob/master/_blogs/R_scripts/LLMs_Ollama_locally.R)
 
+* Here is an extended example that covers more concepts, such as classification: [Running generative models locally with Ollama](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/LLMs_2_ollama.md).
+
 ### Stored and run in VU JupyterHub
 
 Another way to access Ollama is via [VU JupyterHub](https://hub.compute.vu.nl/), 
@@ -154,11 +156,15 @@ totally saved, as it is managed by our VU JupyterHub colleagues.
 small models, you can reach out to our VU JupyterHub colleagues via email: [servicedesk.it@vu.nl](mailto:servicedesk.it@vu.nl). 
 Remember to add in the subject that this is a JupyterHub request.
 
-Here is our minimal example [LLMs_VU_JupyterHub.R](https://github.com/vu-societal-analytics/societal-analytics-lab-website/blob/master/_blogs/R_scripts/LLMs_VU_JupyterHub.R)
-
 > **Hint:** If you don’t want to go through the hassle of requesting a course 
 environment, then feel free to use ours: Social Media Analytics. The environment 
 already has all the packages needed to run Ollama in JupyterHub. 
+
+R tutorials to interact with Ollama using:
+
+* Here is our minimal example [LLMs_VU_JupyterHub.R](https://github.com/vu-societal-analytics/societal-analytics-lab-website/blob/master/_blogs/R_scripts/LLMs_VU_JupyterHub.R)
+
+* Here is an extended example that covers more concepts, such as structured output: [Running generative models remotely on (paid) APIs](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/LLMs_3_APIs.md).
 
 
 ## Stored and run in VU Nebula
@@ -181,7 +187,16 @@ We recommend using Nebula in the following cases:
 3. You are interested in running small LLMs in parallel or using GPUs (which makes 
 the models run faster). 
 
-Here is our minimal example [LLMs_VU_Nebula.R](https://github.com/vu-societal-analytics/societal-analytics-lab-website/blob/master/_blogs/R_scripts/LLMs_VU_Nebula.R)
+R tutorials to interact with Ollama using:
+
+* Here is our minimal example, in it we use ellmer instead of tidyllm, [LLMs_VU_Nebula.R](https://github.com/vu-societal-analytics/societal-analytics-lab-website/blob/master/_blogs/R_scripts/LLMs_VU_Nebula.R)
+
+> **Hint:** In Nebula, you can also run coding agents. Check this tutorial
+to learn more about it:
+Rahim, Mahdi. “Coding Agents with Nebula (VU).” Tutorial. Nebula Coding Agents 
+Tutorial, GitHub. Accessed November 23, 2026. [https://geo-mahdi.github.io/nebula-coding-agents-tutorial/](https://geo-mahdi.github.io/nebula-coding-agents-tutorial/).
+
+
 
 ### Getting access to Nebula
 
