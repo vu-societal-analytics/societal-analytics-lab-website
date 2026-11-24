@@ -122,7 +122,9 @@ R tutorials to interact with Ollama using:
 
 * Here is our minimal example [LLMs_Ollama_locally.R](https://github.com/vu-societal-analytics/societal-analytics-lab-website/blob/master/_blogs/R_scripts/LLMs_Ollama_locally.R)
 
-* Here is an extended example that covers more concepts, such as classification: [Running generative models locally with Ollama](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/LLMs_2_ollama.md).
+* Here is an extended example that covers more concepts, such as classification 
+and models' validation: [Zero-shot Classification with LLMs](https://r4css.vanatteveldt.com/chapters/11-llms.html).
+This example comes from Atteveldt (2026) book.
 
 ### Stored and run in VU JupyterHub
 
@@ -233,6 +235,8 @@ NOT have to pay. This is important to remember, otherwise you would have to pay
 [Back to top](#install-amcat-in-your-own-server)
 
 ## References
+
+Atteveldt, W. van. (2026). R for Computational Social Science. [https://r4css.vanatteveldt.com/](https://r4css.vanatteveldt.com/)
 
 Gil-Clavel, S. (2026). R-Course: Tools for teaching and research. [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.22036755](https://doi.org/10.5281/zenodo.22036755)
 
