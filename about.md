@@ -5,7 +5,8 @@ description: About
 bodyClass: page-about
 ---
 
-The Societal Analytics Lab aims to be the first point of contact for those interested in applying computational methods in their social science research.
+The Societal Analytics Lab aims to be the first point of contact for those 
+interested in applying computational methods in their social science research.
 
 <p align="center">
   <img src="/images/illustrations/CompMethPipeline.png" />
@@ -28,9 +29,15 @@ We aim to:
 
 We want to foster research that fits the digital society that we live in, specifically targeting two groups of scholars:
 
-* 1️⃣*Those New to the Matter* that are curious about how computational methods. We can benefit your research, we offer guidance, training, and essential tools to boost your career. Adding innovative computational elements to grants can often make them more competitive, and we’re happy to help you design, write, and execute research proposals.
+* 1️⃣*Those New to the Matter* that are curious about how computational methods.
+We can benefit your research, we offer guidance, training, and essential tools to 
+boost your career. Adding innovative computational elements to grants can often 
+make them more competitive, and we’re happy to help you design, write, and execute 
+research proposals.
 
-* 2️⃣*Those Already in the Know*, i.e. those already familiar with computational methods, but that lack resources. We provide the necessary tools and infrastructure to facilitate your research project.
+* 2️⃣*Those Already in the Know*, i.e. those already familiar with computational
+methods, but that lack resources. We provide the necessary tools and infrastructure 
+to facilitate your research project.
 
 
 ## What we do:

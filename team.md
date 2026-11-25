@@ -3,7 +3,7 @@ title: Team
 layout: teams
 description: Team
 permalink: "/team/"
-intro_image: https://images.unsplash.com/vector-1740057539117-42cb2c6da083?q=80&w=2360&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+intro_image: https://cdni.iconscout.com/illustration/free/thumb/free-developer-team-illustration-svg-download-png-1731280.png
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
@@ -11,6 +11,11 @@ show_call_box: true
 
 # Meet The Team
 
-We are a group of Computational Social Scientists!
+We are a group of research engineers that love building meaningful infrastructure.
 
-We aim to facilitate the use of computational resources by helping social scientist acquire infrastructure and knowledge. Feel free to reach out to us!
+We all have multidisciplinary backgrounds at the intersection of computer science,
+data science, and social science.
+
+But not only that, we also love collaborating and making computational resources 
+reachable to social science researchers. Feel free to reach out to us if you 
+want to collaborate or to contribute: [analytics-lab.fsw@vu.nl](emailto: analytics-lab.fsw@vu.nl).
